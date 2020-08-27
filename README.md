@@ -10,8 +10,9 @@ Links
 - Twitter
 
 Colors
-- white
-- yellow
-- red
 - blue
 - green
+- red
+- white
+- yellow
+
