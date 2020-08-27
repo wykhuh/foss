@@ -6,3 +6,5 @@ Links
 - Twitter
 - Linked In
 - ORCID
+- Facebook
+- Instagram
