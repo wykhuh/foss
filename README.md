@@ -8,3 +8,8 @@ Links
 - Linked In
 - ORCID
 - Twitter
+
+Colors
+- white
+- yellow
+- red
