@@ -13,3 +13,5 @@ Colors
 - white
 - yellow
 - red
+- blue
+- green
